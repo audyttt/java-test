@@ -14,5 +14,15 @@ public class Hw3Lab {
             System.out.println();
 
         }
+        int day = 4;
+        switch (day) {
+            case 1:
+
+                break;
+            case 2:
+                break;
+            default:
+                break;
+        }
     }
 }
